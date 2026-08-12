@@ -1,4 +1,4 @@
-2023 Legislation Reset
+2024 Legislation Reset
 ======================
 
 :executive-order-date: 2024-08-23
@@ -6,6 +6,9 @@
 
 The President hereby orders the reset of all legislation in Samland, effective immediately.
 All existing laws, codes, and regulations are hereby repealed and shall no longer be in effect.
+
+This reset excludes any previous executive order, which will remain in effect unless explicitly
+repealed by the President.
 
 The existing https://github.com/Samland-Gov/legislation repository will be archived and renamed
 to preserve the history of Samland's legislation prior to the reset.
