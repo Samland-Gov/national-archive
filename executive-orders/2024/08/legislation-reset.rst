@@ -1,5 +1,5 @@
 2023 Legislation Reset
-=======================
+======================
 
 :executive-order-date: 2024-08-23
 :executive-order-author: @samuelh2005
