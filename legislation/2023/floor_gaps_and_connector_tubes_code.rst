@@ -6,7 +6,7 @@ Floor Gaps and Connector Tubes Code
 :assented-date: 2023-06-13
 :repelled-date: 2024-06-22
 :repelled-reason: Samland legislation was reset in 2024, and this code was not included in the new legislation.
-:source-from: https://github.com/Samland-Gov/legislation-old/blob/e495962aa1d1728ce07e0dc13e912f23627aeb9c/laws/building_regulations/construction_standards/floor_gaps_and_connector_tubes_code.md
+:archival-source: https://github.com/Samland-Gov/legislation-old/blob/e495962aa1d1728ce07e0dc13e912f23627aeb9c/laws/building_regulations/construction_standards/floor_gaps_and_connector_tubes_code.md
 
 1. Introduction
 ---------------
